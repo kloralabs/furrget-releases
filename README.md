@@ -5,15 +5,15 @@ said.
 
 ## Download the newest build
 
-**Desktop preview 2 (2026-10-01)**: a test build of the new app for Mac and Windows.
+**Furrget 0.3.0 preview 3 (2026-10-05)**: a test build of the new app for Mac.
 
-| Computer                                    | Download                                                                                                                                                                                      |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mac with Apple silicon, macOS 14.2 or later | [Furrget for Mac (.dmg, 291 MB)](https://github.com/kloralabs/furrget-releases/releases/download/desktop-preview-2026-10-01-2/Furrget-desktop-preview-2026-10-01-2-mac-arm64.dmg)             |
-| Windows 10 (22H2) or 11, 64-bit             | [Furrget for Windows (.exe, 239 MB)](https://github.com/kloralabs/furrget-releases/releases/download/desktop-preview-2026-10-01-2/Furrget-desktop-preview-2026-10-01-2-windows-x64-setup.exe) |
+| Computer | Download |
+| --- | --- |
+| Mac with Apple silicon, macOS 14.2 or later | [Furrget for Mac (.dmg, 291 MB)](https://github.com/kloralabs/furrget-releases/releases/download/v0.3.0-preview.3/Furrget-0.3.0-preview.3-mac-arm64.dmg) |
 
-What changed and known issues:
-[release notes](https://github.com/kloralabs/furrget-releases/releases/tag/desktop-preview-2026-10-01-2).
+The Windows build follows in a later preview.
+
+What changed and known issues: [release notes](https://github.com/kloralabs/furrget-releases/releases/tag/v0.3.0-preview.3).
 
 ## Opening it the first time
 
